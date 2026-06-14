@@ -51,6 +51,5 @@ The model successfully completed training and evaluation. However, the current c
 
 * Train for more epochs
 * Hyperparameter tuning
-* Better data augmentation
-* Class balancing techniques
-* Improved dataset splitting strategy
+
+![image alt](https://github.com/starAditya/ML/blob/09746cd9255cf81e9f882436e278a8569273a88d/final%20test%201.jpeg)
